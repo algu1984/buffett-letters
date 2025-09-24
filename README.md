@@ -17,18 +17,6 @@ This project only collects **links to the original sources**.
 | **Early Berkshire Hathaway** | 1971–1976 | Short Shareholder Letters | Transition period; less detailed, archived in collections |
 | **Berkshire Hathaway Inc.** | 1977–Present | Official Shareholder Letters | Full annual letters available on Berkshire’s website |
 
-## ⏱ ASCII Timeline
-
-1957        1960        1965        1970        1971        1976        1977                          2024
-|-----------|-----------|-----------|-----------|-----------|-----------|-----------|---------------------|
-BPL (Partnership Letters) ================================▶  Wind-down  ▶  Early Berkshire Letters ====▶  Official BH Letters ▶▶
-
-Legend:
-- **BPL** — Buffett Partnership Ltd. (1957–1970): letters to limited partners.
-- **Wind-down** — 1969–1970: partnership wound down; some partners received Berkshire stock.
-- **Early Berkshire Letters** — 1971–1976: short shareholder communications (archived in collections).
-- **Official BH Letters** — 1977–present: full annual Berkshire Hathaway letters on the official site.
-
 ---
 
 ## 📚 Buffett Partnership Letters (1957–1970)
