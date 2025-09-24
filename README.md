@@ -27,10 +27,9 @@ This project only collects **links to the original sources**.
 
 ---
 
-## 🏛 Berkshire Hathaway Shareholder Letters (1971–1976)
+## 🏛 Berkshire Hathaway Shareholder Letters (1969, 1971–1976)
 
-- **1971** – [Letter (PDF)](https://aboveaverageodds.files.wordpress.com/2009/12/buffett_bh71.pdf)  
-- **1972–1976** – *Archived in [Buffett Letters 1969–1976 PDF](https://assets.empirefinancialresearch.com/uploads/2021/02/Buffett-Letters-1969-76.pdf)*  
+- **1969, 1971–1976** – *Archived in [Buffett Letters 1969–1976 PDF](https://assets.empirefinancialresearch.com/uploads/2021/02/Buffett-Letters-1969-76.pdf)*
 
 ---
 
