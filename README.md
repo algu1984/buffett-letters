@@ -21,8 +21,7 @@ This project only collects **links to the original sources**.
 
 ## 📚 Buffett Partnership Letters (1957–1970)
 
-- **1957–1970** – [Complete PDF Collection (csinvesting.org)](https://csinvesting.org/wp-content/uploads/2012/05/complete_buffett_partnership_letters-1957-70_in-sections.pdf)  
-- [Alternative Archive (Ivey Business School PDF)](https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf)  
+- **1957–1970** – [Alternative Archive (Ivey Business School PDF)](https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf)  
 - [MarketFolly summary](https://www.marketfolly.com/2010/08/warren-buffetts-partnership-letters.html)  
 
 ---
