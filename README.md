@@ -46,7 +46,7 @@ This project only collects **links to the original sources**.
 
 ---
 
-## 🎥 Berkshire Hathaway Annual Meetings (Full Videos)
+## 🎥 Berkshire Hathaway Annual Meetings (Full Videos) (1994-2025)
 
 - [1994 Annual Meeting](https://www.youtube.com/watch?v=4ZpXph6tD1M)
 - [1995 Annual Meeting](https://www.youtube.com/watch?v=_fC1U3yQ6nE)
